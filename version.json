@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.2/TakePeek_SoT.exe",
-  "changelog": "Aimbot & cannon upgrades: memory bullet speed, silent aim, underwater compensation, OUT OF RANGE display, damage zone sequencing"
+  "version": "2.0.3",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.3/TakePeek_SoT.exe",
+  "changelog": "Per-frame camera sync fix: eliminates ESP/aimbot desync during fast mouse movement"
 }
