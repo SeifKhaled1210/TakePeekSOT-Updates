@@ -1,5 +1,5 @@
 {
-  "version": "2.0.12",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.12/TakePeek_SoT.exe",
-  "changelog": "Fix INSERT menu toggle not working with KeyAuth (switch from & 1 to & 0x8000 edge detection)"
+  "version": "2.0.13",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.13/TakePeek_SoT.exe",
+  "changelog": "Remove cannon auto-aim (SendInput detected by EAC). Cannon is now visualization-only: trajectory arc + lead prediction markers. Kill KeyAuth heartbeat thread."
 }
