@@ -1,5 +1,5 @@
 {
-  "version": "2.0.11",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.11/TakePeek_SoT.exe",
-  "changelog": "Fix 3 compasses showing; fix event names not displaying; increase max ESP distance to 10k; fix cannon aimbot TWeakObjectPtr detection; fix shadow skeleton targeting; improve server crew roster ship matching"
+  "version": "2.0.12",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.12/TakePeek_SoT.exe",
+  "changelog": "Fix INSERT menu toggle not working with KeyAuth (switch from & 1 to & 0x8000 edge detection)"
 }
