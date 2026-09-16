@@ -1,5 +1,5 @@
 {
-  "version": "2.0.9",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.9/TakePeek_SoT.exe",
-  "changelog": "Fix overlay window creation failure (moved PE header erase to after overlay init); added granular overlay+RPM error logging"
+  "version": "2.0.10",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.10/TakePeek_SoT.exe",
+  "changelog": "Added main loop + INSERT key diagnostic logging to trace why menu toggle fails"
 }
