@@ -1,5 +1,5 @@
 {
-  "version": "2.0.8",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.8/TakePeek_SoT.exe",
-  "changelog": "Debug: auto-flush log to disk (TakePeek_SoT_Startup.log) so we can see exactly where the flow gets stuck"
+  "version": "2.0.9",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.9/TakePeek_SoT.exe",
+  "changelog": "Fix overlay window creation failure (moved PE header erase to after overlay init); added granular overlay+RPM error logging"
 }
