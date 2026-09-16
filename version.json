@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.6/TakePeek_SoT.exe",
-  "changelog": "Fix: disable KeyAuth security_watchdog thread and all periodic anti-tamper checks (rolling CRC, module signing, timing) that cause silent __fastfail crashes ~15s after auth on VBS/HVCI-toggled systems"
+  "version": "2.0.7",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.7/TakePeek_SoT.exe",
+  "changelog": "Fix: completely strip all KeyAuth memory protections (LockMemAccess, killEmulator, security_watchdog, checkInit anti-tamper, integrity checks) — these interfere with SoT's memory read operations and overlay rendering"
 }
