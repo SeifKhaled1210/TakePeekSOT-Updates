@@ -1,5 +1,5 @@
 {
-  "version": "2.0.7",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.7/TakePeek_SoT.exe",
-  "changelog": "Fix: completely strip all KeyAuth memory protections (LockMemAccess, killEmulator, security_watchdog, checkInit anti-tamper, integrity checks) — these interfere with SoT's memory read operations and overlay rendering"
+  "version": "2.0.8",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.8/TakePeek_SoT.exe",
+  "changelog": "Debug: auto-flush log to disk (TakePeek_SoT_Startup.log) so we can see exactly where the flow gets stuck"
 }
