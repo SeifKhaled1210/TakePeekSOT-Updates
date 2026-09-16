@@ -1,5 +1,5 @@
 {
-  "version": "2.0.10",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.10/TakePeek_SoT.exe",
-  "changelog": "Fix IntProperty showing in island dropdown; fix ImGui ID conflict popup; add main loop diagnostic logging"
+  "version": "2.0.11",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.11/TakePeek_SoT.exe",
+  "changelog": "Fix 3 compasses showing; fix event names not displaying; increase max ESP distance to 10k; fix cannon aimbot TWeakObjectPtr detection; fix shadow skeleton targeting; improve server crew roster ship matching"
 }
