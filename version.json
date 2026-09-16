@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.3/TakePeek_SoT.exe",
-  "changelog": "Per-frame camera sync fix: eliminates ESP/aimbot desync during fast mouse movement"
+  "version": "2.0.4",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.4/TakePeek_SoT.exe",
+  "changelog": "Map pin ESP, island waypoint beacon, 2D X-mark indicators, expanded item database (emissary flags, manifests, gold pouches, cargo)"
 }
