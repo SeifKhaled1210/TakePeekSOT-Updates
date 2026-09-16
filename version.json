@@ -1,5 +1,5 @@
 {
   "version": "2.0.5",
   "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.5/TakePeek_SoT.exe",
-  "changelog": "Split cannon target toggles: Players and Skeletons/Phantoms now have separate toggles"
+  "changelog": "Fix: disable .text integrity checks that false-positive when VBS/Memory Integrity is toggled"
 }
