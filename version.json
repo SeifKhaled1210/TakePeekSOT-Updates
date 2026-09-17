@@ -1,5 +1,5 @@
 {
-  "version": "2.0.13",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.13/TakePeek_SoT.exe",
-  "changelog": "Remove cannon auto-aim (SendInput detected by EAC). Cannon is now visualization-only: trajectory arc + lead prediction markers. Kill KeyAuth heartbeat thread."
+  "version": "2.0.14",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.14/TakePeek_SoT.exe",
+  "changelog": "Season 21 update: new offsets for Sept 2026 game update. Added TinyKraken, Ancient Megalodon, Hammerhead, Mercenary, Sea Fort, GMU Ship entity types. Self-ESP toggle to prevent FPS flickering. Client HWID reset support."
 }
