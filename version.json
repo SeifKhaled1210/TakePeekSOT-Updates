@@ -1,5 +1,5 @@
 {
-  "version": "2.0.14",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.14/TakePeek_SoT.exe",
-  "changelog": "Season 21 update: new offsets for Sept 2026 game update. Added TinyKraken, Ancient Megalodon, Hammerhead, Mercenary, Sea Fort, GMU Ship entity types. Self-ESP toggle to prevent FPS flickering. Client HWID reset support."
+  "version": "2.0.15",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.15/TakePeek_SoT.exe",
+  "changelog": "Full audit sweep: removed cannon auto-aim (prediction-only now). Fixed missing creature labels (TinyKraken/AncientMeg/Hammerhead). Added GMU Ship velocity tracking, Pets/AncientSkeleton/ReapersTributeShip classification. Removed LnvMSRIO BSOD driver. Purged KeyAuth remnants. Fixed HMAC timing attack. Removed dead harpoon aimbot UI."
 }
