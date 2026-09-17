@@ -1,6 +1,6 @@
 {
-  "version": "2.0.16",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.16/TakePeek_SoT.exe",
-  "changelog": "Hardening: PT cache thread safety (spinlock). Auto-updater SHA256 integrity verification. BCrypt hash check before applying updates.",
-  "sha256": "6c7f12472f6181c30d7a5a75d8e18c7f953d25bc02653837e0d747d3e512dce0"
+  "version": "2.0.17",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.17/TakePeek_SoT.exe",
+  "changelog": "Binary hardening: XOR string encryption across all sensitive strings (process names, file paths, API endpoints, brand identifiers). Dynamic API resolution for CreateFileA/DeviceIoControl/CloseHandle. Integer obfuscation for driver magic constants. Enhanced anti-debug (NtQueryInformationProcess debug port, hardware breakpoint detection, RDTSC timing check).",
+  "sha256": "28a00b30e1f861c8bb245174f97b70513332159c5a8c10489016a563cc50f76d"
 }
