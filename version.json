@@ -1,6 +1,6 @@
 {
   "version": "2.0.17",
   "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.17/TakePeek_SoT.exe",
-  "changelog": "Binary hardening: XOR string encryption across all sensitive strings (process names, file paths, API endpoints, brand identifiers). Dynamic API resolution for CreateFileA/DeviceIoControl/CloseHandle. Integer obfuscation for driver magic constants. Enhanced anti-debug (NtQueryInformationProcess debug port, hardware breakpoint detection, RDTSC timing check).",
-  "sha256": "28a00b30e1f861c8bb245174f97b70513332159c5a8c10489016a563cc50f76d"
+  "changelog": "Binary hardening: XOR string encryption, dynamic API resolution, integer obfuscation, enhanced anti-debug. Auth temporarily set to dev stub while TLS and licensing security improvements are implemented.",
+  "sha256": "50c8f97d48432e0b22704e6d2d4a3b02c0d59b069000ac18d1e1a01593e224ac"
 }
