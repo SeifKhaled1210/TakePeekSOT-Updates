@@ -1,5 +1,6 @@
 {
-  "version": "2.0.15",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.15/TakePeek_SoT.exe",
-  "changelog": "Full audit sweep: removed cannon auto-aim (prediction-only now). Fixed missing creature labels (TinyKraken/AncientMeg/Hammerhead). Added GMU Ship velocity tracking, Pets/AncientSkeleton/ReapersTributeShip classification. Removed LnvMSRIO BSOD driver. Purged KeyAuth remnants. Fixed HMAC timing attack. Removed dead harpoon aimbot UI."
+  "version": "2.0.16",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.16/TakePeek_SoT.exe",
+  "changelog": "Hardening: PT cache thread safety (spinlock). Auto-updater SHA256 integrity verification. BCrypt hash check before applying updates.",
+  "sha256": "6c7f12472f6181c30d7a5a75d8e18c7f953d25bc02653837e0d747d3e512dce0"
 }
