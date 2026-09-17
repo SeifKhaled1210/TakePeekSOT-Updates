@@ -1,6 +1,6 @@
 {
   "version": "2.0.19",
   "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.19/TakePeek_SoT.exe",
-  "changelog": "Fixed cannon detection: simplified to activity-based detection (like Poltergeist), added cannon status HUD, increased detection range. Fixed waypoint beam screen lines.",
-  "sha256": "2df2a9aaaa3a7856b58c47ba53c3a02c08e66dbb1ce77e7fc2206a42f5700853"
+  "changelog": "Fixed fog flickering, improved cannon detection, added cannon status HUD, fixed waypoint beam lines.",
+  "sha256": "994ca7ffbd14351fb8f7f581de6eb3125f2b435d19bbd3b6603a4c72148eb939"
 }
