@@ -1,6 +1,6 @@
 {
-  "version": "2.0.20",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.20/TakePeek_SoT.exe",
-  "changelog": "Auth system upgrade: HTTPS, async validation, atomic state, production auth enabled.",
-  "sha256": "48fe12a436032c53ca9344dd3cb8ae4af2911d3f4713ebfcd952d8eeec426181"
+  "version": "2.0.21",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.21/TakePeek_SoT.exe",
+  "changelog": "Fix ESP/aimbot intermittent dropout: stop clearing class name cache (caused mass re-resolve every 2min), fix tick counter stalling on bail-outs, fix false dead detection from failed health reads.",
+  "sha256": "1949ae92853f5ae91ba1ea6d0e0b746e3aa07860dd2a12ddd0200a6f6ddd26e3"
 }
