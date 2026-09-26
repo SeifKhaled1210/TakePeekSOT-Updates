@@ -1,6 +1,6 @@
 {
-  "version": "2.0.21",
-  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.21/TakePeek_SoT.exe",
-  "changelog": "Fix ESP/aimbot intermittent dropout: stop clearing class name cache (caused mass re-resolve every 2min), fix tick counter stalling on bail-outs, fix false dead detection from failed health reads.",
-  "sha256": "1949ae92853f5ae91ba1ea6d0e0b746e3aa07860dd2a12ddd0200a6f6ddd26e3"
+  "version": "2.0.22",
+  "url": "https://github.com/SeifKhaled1210/TakePeekSOT-Updates/releases/download/v2.0.22/TakePeek_SoT.exe",
+  "changelog": "Remove SetControlRotation write (ban cause). Aimbot now uses RotationInput only (like Poltergeist). All other features restored.",
+  "sha256": "f5cc0ddece4900626f0fa7c8bf06d58d797603560a28b79b029aa9febedf9cb8"
 }
